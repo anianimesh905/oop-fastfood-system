@@ -125,5 +125,3 @@ Thank you, Animesh!
 📧 anianimesh905@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/animesh-singh-b50095261)  
 💻 [GitHub](https://github.com/anianimesh905)
-
-> > > > > > > f1b234575f46e337813aeeb0e79887bfc23b22a2:src/README.md
