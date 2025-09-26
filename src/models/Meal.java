@@ -20,9 +20,7 @@ public class Meal {
     
     public void showItems() {
         for (Item item : items) {
-            System.out.println("Item: " + item.name() + 
-                            ", Packing: " + item.packing().pack() + 
-                            ", Price: $" + item.price());
+            System.out.println("Item: " + item.name() + ", Packing: " + item.packing().pack() + ", Price: $" + item.price());
         }
     }
     
